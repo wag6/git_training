@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 And here is a second line some guy put in. Then he added more to make a merge conflict.
+And here's even more text for the rebasing exercise.
