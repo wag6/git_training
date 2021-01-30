@@ -1,1 +1,2 @@
 Hi! I'm Bob. I'm new here.
+Here is some sneaky stuff for the merge of a divergent branch.
