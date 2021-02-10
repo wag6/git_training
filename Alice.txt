@@ -3,3 +3,4 @@ Alice Change branch test
 Alice divergent merge 
 Alice patrick update test
 Alice fetch test
+Alice line 6 stash
